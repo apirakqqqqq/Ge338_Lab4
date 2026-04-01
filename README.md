@@ -1,5 +1,6 @@
 # Ge338_Lab4
 
+# **สรุป methodology**
 # **ภาจกิจที่ 1 กำหนดแนวคิด (Conceptual Framework)**
 
 # **1. คำถามวิจัย**
