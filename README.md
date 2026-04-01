@@ -1,6 +1,6 @@
 # Ge338_Lab4
 
-**ภาจกิจที่ 1 กำหนดแนวคิด (Conceptual Framework)**
+# **ภาจกิจที่ 1 กำหนดแนวคิด (Conceptual Framework)**
 
 # **1. คำถามวิจัย**
 
